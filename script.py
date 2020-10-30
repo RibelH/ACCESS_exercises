@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import os
-
+#Test
 # This signature is required for the automated grading to work.
 # Do not rename the function or change its list of parameters!
 def get_average_grade(path):
